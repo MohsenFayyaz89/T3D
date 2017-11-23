@@ -13,6 +13,8 @@ Vivek Sharma,
 (* equal contribution) 
 
 In this work we have introduced the new 3D convolutional neural network architectures for video classification named DenseNet3D and T3D. 
+
+If you find this code useful in your research, please cite:
 ```
 @ARTICLE{2017arXiv171108200D,
    author = {{Diba}, A. and {Fayyaz}, M. and {Sharma}, V. and {Karami}, A.~H. and 

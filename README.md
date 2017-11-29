@@ -4,7 +4,7 @@ This is the code for the paper
 <br>
 [Ali Diba\*](http://alidiba67.github.io/),
 [Mohsen Fayyaz\*](http://mohsenfayyaz89.github.io/),
-Vivek Sharma,
+[Vivek Sharma\*](http://vivoutlaw.github.io/),
 [Amir Hossein Karami](http://www.sensifai.com),
 [Mohammad Mahdi Arzani](http://www.sensifai.com),
 [Rahman Yousefzadeh](http://www.sensifai.com),
